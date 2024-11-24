@@ -1,4 +1,1 @@
-# ISTVT-Official
-Official implement of ISTVT: Interpretable Spatial-Temporal Video Transformer for Deepfake Detection.
-
-Coming soon...
+An attempt to enhance the accuracy of the model
